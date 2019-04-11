@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+*.sqlite
+*.looper
+/profile
+avcm.yml
+*.old
+*.bak

@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+$VERBOSE = nil
+require 'av_clip_manager'
+
+Avcm::Command.start(ARGV)
